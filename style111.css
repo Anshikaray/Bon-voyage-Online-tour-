@@ -1,0 +1,12 @@
+*{
+    font-family: 'New Tegomin', serif;
+}
+.header{
+    background-image: url("nature-3082832_1280.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+
+}
